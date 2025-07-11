@@ -1,6 +1,6 @@
 <div align="center">
 
-# _🧠 DeepMath_
+# _AntDT-DeepFinance-300K_
 
 <div>
  A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning
