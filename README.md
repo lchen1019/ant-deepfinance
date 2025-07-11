@@ -8,6 +8,7 @@ A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimi
 
 </div>
 
+<div></div>
 
 <div align="center">
 
