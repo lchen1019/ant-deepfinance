@@ -1,14 +1,14 @@
 <div align="center">
 
-# AntDT-DeepFinance-300K
+# _🧠 DeepMath_
 
 <div>
-A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization
+ A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning
+</div>
 </div>
 
-</div>
-
-<div></div>
+<div>
+<br>
 
 <div align="center">
 
@@ -17,6 +17,7 @@ A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimi
 [![Github](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zwhe99/DeepMath)
 [![GitHub Stars](https://img.shields.io/github/stars/zwhe99/DeepMath?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=000000)](https://github.com/zwhe99/DeepMath)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.11456-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2504.11456)
+</div>
 </div>
 
 中文 ｜ 英文
