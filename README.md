@@ -1,5 +1,5 @@
 <div align="center">
-# AntDT-DeepFinance-300K
+# _🧠 DeepMath_
 </div>
 
 <div align="center">
