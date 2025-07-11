@@ -19,7 +19,9 @@ A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimi
 </div>
 
 <div align="center">
-中文 ｜ 英文
+
+**中文** | [**EN**](README.md)
+
 </div>
 
 
