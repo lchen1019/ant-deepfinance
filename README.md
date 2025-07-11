@@ -1,4 +1,10 @@
+<div align="center">
 # AntDT-DeepFinance-300K
+</div>
+
+<div align="center">
+A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization
+</div>
 
 <div align="center">
 
