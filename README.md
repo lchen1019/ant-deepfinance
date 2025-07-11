@@ -1,6 +1,14 @@
 <div align="center">
+
 # _🧠 DeepMath_
+
+<div>
+ A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning
 </div>
+</div>
+
+<div>
+<br>
 
 <div align="center">
 A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization
